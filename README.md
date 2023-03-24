@@ -1,5 +1,5 @@
 
-* Docker is in docker catalog and you need only do 
+Docker is in docker catalog and you need only do 
   ```
   ./start.sh
   ``` 
@@ -9,7 +9,10 @@
   ```
   docker compose exec workspace bash
   ``` 
-    npm install
-    ``` 
-    npm run watch
-    ``` 
+  Make sure to
+```   
+npm install
+``` 
+ ``` 
+npm run watch
+``` 
